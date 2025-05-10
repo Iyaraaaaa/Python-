@@ -1,0 +1,13 @@
+Python 3.12.3 (tags/v3.12.3:f6650f9, Apr  9 2024, 14:05:25) [MSC v.1938 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+>>> 
+... 
+... 
+... def Converter(celsius):
+...     fahrenheit = (celsius * 9/5) + 32
+...     print("Fahrenheit is:", fahrenheit)
+... 
+...     
+>>> Converter(36)
+Fahrenheit is: 96.8

@@ -1,0 +1,5 @@
+f = open(r"Python Programming","w+")
+f.writelines(["\nMy name is Iyara" , " \nFrom Veyangoda"])
+f=open(r"Python Programming.txt")
+print(f.read(7))
+f.close()

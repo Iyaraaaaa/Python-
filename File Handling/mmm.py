@@ -1,0 +1,5 @@
+f = open(r"test.txt","w+")
+f.writelines(["\nMy name is Iyara" , " \nFrom Veyangoda"])
+f=open(r"test.txt")
+print(f.read())
+f.close()
